@@ -6,9 +6,3 @@
  <p align="center">
 
  </p>
-
-## Setup
-
-```
-npm i && npm start
-```
